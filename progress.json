@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-27T09:41:19.394Z",
+  "generated_at": "2026-09-27T09:41:21.014Z",
   "items": {
     "problem:356": {
       "kind": "problem",
@@ -182,6 +182,58 @@
       "last_pushed_at": "2026-07-18T08:49:09.046Z",
       "language": "python",
       "lines": 26
+    },
+    "problem:13": {
+      "kind": "problem",
+      "id": "13",
+      "title": "Determinant of a 4x4 Matrix using Laplace's Expansion (hard)",
+      "difficulty": "hard",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/13",
+      "path": "problems/0013-determinant-of-a-4x4-matrix-using-laplace-s-expansion-hard",
+      "first_solved_at": "2026-07-20T11:19:51.876Z",
+      "last_pushed_at": "2026-07-20T11:19:51.876Z",
+      "language": "python",
+      "lines": 13
+    },
+    "problem:16": {
+      "kind": "problem",
+      "id": "16",
+      "title": "Feature Scaling Implementation",
+      "difficulty": "easy",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/16",
+      "path": "problems/0016-feature-scaling-implementation",
+      "first_solved_at": "2026-07-20T11:38:27.022Z",
+      "last_pushed_at": "2026-07-20T11:38:27.022Z",
+      "language": "python",
+      "lines": 7
+    },
+    "problem:22": {
+      "kind": "problem",
+      "id": "22",
+      "title": "Sigmoid Activation Function Understanding",
+      "difficulty": "easy",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/22",
+      "path": "problems/0022-sigmoid-activation-function-understanding",
+      "first_solved_at": "2026-07-20T11:51:36.552Z",
+      "last_pushed_at": "2026-07-20T11:51:36.552Z",
+      "language": "python",
+      "lines": 5
+    },
+    "problem:23": {
+      "kind": "problem",
+      "id": "23",
+      "title": "Softmax Activation Function Implementation ",
+      "difficulty": "easy",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/23",
+      "path": "problems/0023-softmax-activation-function-implementation",
+      "first_solved_at": "2026-07-20T12:03:22.389Z",
+      "last_pushed_at": "2026-07-20T12:03:22.389Z",
+      "language": "python",
+      "lines": 8
     }
   }
 }
