@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-27T09:41:24.493Z",
+  "generated_at": "2026-09-27T09:41:26.341Z",
   "items": {
     "problem:356": {
       "kind": "problem",
@@ -364,6 +364,58 @@
       "last_pushed_at": "2026-07-27T10:20:05.542Z",
       "language": "python",
       "lines": 44
+    },
+    "problem:33": {
+      "kind": "problem",
+      "id": "33",
+      "title": "Generate Random Subsets of a Dataset",
+      "difficulty": "medium",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/33",
+      "path": "problems/0033-generate-random-subsets-of-a-dataset",
+      "first_solved_at": "2026-07-28T05:16:41.692Z",
+      "last_pushed_at": "2026-07-28T05:16:41.692Z",
+      "language": "python",
+      "lines": 16
+    },
+    "problem:31": {
+      "kind": "problem",
+      "id": "31",
+      "title": "Divide Dataset Based on Feature Threshold",
+      "difficulty": "medium",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/31",
+      "path": "problems/0031-divide-dataset-based-on-feature-threshold",
+      "first_solved_at": "2026-07-28T05:23:20.722Z",
+      "last_pushed_at": "2026-07-28T05:23:20.722Z",
+      "language": "python",
+      "lines": 7
+    },
+    "problem:32": {
+      "kind": "problem",
+      "id": "32",
+      "title": "Generate Sorted Polynomial Features",
+      "difficulty": "medium",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/32",
+      "path": "problems/0032-generate-sorted-polynomial-features",
+      "first_solved_at": "2026-07-28T06:31:01.991Z",
+      "last_pushed_at": "2026-07-28T06:31:01.991Z",
+      "language": "python",
+      "lines": 15
+    },
+    "problem:42": {
+      "kind": "problem",
+      "id": "42",
+      "title": "Implement ReLU Activation Function",
+      "difficulty": "easy",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/42",
+      "path": "problems/0042-implement-relu-activation-function",
+      "first_solved_at": "2026-07-28T16:00:44.462Z",
+      "last_pushed_at": "2026-07-28T16:00:44.462Z",
+      "language": "python",
+      "lines": 3
     }
   }
 }
