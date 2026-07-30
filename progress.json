@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-27T09:41:28.084Z",
+  "generated_at": "2026-09-27T09:41:29.900Z",
   "items": {
     "problem:356": {
       "kind": "problem",
@@ -494,6 +494,71 @@
       "last_pushed_at": "2026-07-29T17:27:53.340Z",
       "language": "python",
       "lines": 4
+    },
+    "problem:43": {
+      "kind": "problem",
+      "id": "43",
+      "title": "Implement Ridge Regression Loss Function",
+      "difficulty": "easy",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/43",
+      "path": "problems/0043-implement-ridge-regression-loss-function",
+      "first_solved_at": "2026-07-30T13:52:03.259Z",
+      "last_pushed_at": "2026-07-30T13:52:03.259Z",
+      "language": "python",
+      "lines": 6
+    },
+    "problem:46": {
+      "kind": "problem",
+      "id": "46",
+      "title": "Implement Precision Metric",
+      "difficulty": "easy",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/46",
+      "path": "problems/0046-implement-precision-metric",
+      "first_solved_at": "2026-07-30T14:01:27.311Z",
+      "last_pushed_at": "2026-07-30T14:01:27.311Z",
+      "language": "python",
+      "lines": 5
+    },
+    "problem:52": {
+      "kind": "problem",
+      "id": "52",
+      "title": "Implement Recall Metric in Binary Classification",
+      "difficulty": "easy",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/52",
+      "path": "problems/0052-implement-recall-metric-in-binary-classification",
+      "first_solved_at": "2026-07-30T14:03:04.680Z",
+      "last_pushed_at": "2026-07-30T14:03:04.680Z",
+      "language": "python",
+      "lines": 5
+    },
+    "problem:61": {
+      "kind": "problem",
+      "id": "61",
+      "title": "Implement F-Score Calculation for Binary Classification",
+      "difficulty": "easy",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/61",
+      "path": "problems/0061-implement-f-score-calculation-for-binary-classification",
+      "first_solved_at": "2026-07-30T14:20:53.555Z",
+      "last_pushed_at": "2026-07-30T14:20:53.555Z",
+      "language": "python",
+      "lines": 12
+    },
+    "problem:71": {
+      "kind": "problem",
+      "id": "71",
+      "title": "Calculate Root Mean Square Error (RMSE)",
+      "difficulty": "easy",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/71",
+      "path": "problems/0071-calculate-root-mean-square-error-rmse",
+      "first_solved_at": "2026-07-30T14:28:54.346Z",
+      "last_pushed_at": "2026-07-30T14:28:54.346Z",
+      "language": "python",
+      "lines": 11
     }
   }
 }
