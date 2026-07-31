@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-27T09:41:29.900Z",
+  "generated_at": "2026-09-27T09:41:31.765Z",
   "items": {
     "problem:356": {
       "kind": "problem",
@@ -559,6 +559,71 @@
       "last_pushed_at": "2026-07-30T14:28:54.346Z",
       "language": "python",
       "lines": 11
+    },
+    "problem:66": {
+      "kind": "problem",
+      "id": "66",
+      "title": "Implement Orthogonal Projection of a Vector onto a Line",
+      "difficulty": "easy",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/66",
+      "path": "problems/0066-implement-orthogonal-projection-of-a-vector-onto-a-line",
+      "first_solved_at": "2026-07-31T11:27:58.851Z",
+      "last_pushed_at": "2026-07-31T11:27:58.851Z",
+      "language": "python",
+      "lines": 12
+    },
+    "problem:67": {
+      "kind": "problem",
+      "id": "67",
+      "title": "Implement Compressed Column Sparse Matrix Format (CSC)",
+      "difficulty": "easy",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/67",
+      "path": "problems/0067-implement-compressed-column-sparse-matrix-format-csc",
+      "first_solved_at": "2026-07-31T12:08:08.328Z",
+      "last_pushed_at": "2026-07-31T12:08:08.328Z",
+      "language": "python",
+      "lines": 24
+    },
+    "problem:65": {
+      "kind": "problem",
+      "id": "65",
+      "title": "Implement Compressed Row Sparse Matrix (CSR) Format Conversion",
+      "difficulty": "easy",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/65",
+      "path": "problems/0065-implement-compressed-row-sparse-matrix-csr-format-conversion",
+      "first_solved_at": "2026-07-31T12:33:58.761Z",
+      "last_pushed_at": "2026-07-31T12:33:58.761Z",
+      "language": "python",
+      "lines": 45
+    },
+    "problem:76": {
+      "kind": "problem",
+      "id": "76",
+      "title": "Calculate Cosine Similarity Between Vectors",
+      "difficulty": "easy",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/76",
+      "path": "problems/0076-calculate-cosine-similarity-between-vectors",
+      "first_solved_at": "2026-07-31T12:46:38.036Z",
+      "last_pushed_at": "2026-07-31T12:46:38.036Z",
+      "language": "python",
+      "lines": 25
+    },
+    "problem:75": {
+      "kind": "problem",
+      "id": "75",
+      "title": "Generate a Confusion Matrix for Binary Classification",
+      "difficulty": "easy",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/75",
+      "path": "problems/0075-generate-a-confusion-matrix-for-binary-classification",
+      "first_solved_at": "2026-07-31T13:54:32.827Z",
+      "last_pushed_at": "2026-07-31T13:54:32.827Z",
+      "language": "python",
+      "lines": 28
     }
   }
 }
