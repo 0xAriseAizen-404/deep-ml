@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-27T09:41:31.765Z",
+  "generated_at": "2026-09-27T09:41:33.513Z",
   "items": {
     "problem:356": {
       "kind": "problem",
@@ -624,6 +624,84 @@
       "last_pushed_at": "2026-07-31T13:54:32.827Z",
       "language": "python",
       "lines": 28
+    },
+    "problem:69": {
+      "kind": "problem",
+      "id": "69",
+      "title": "Calculate R-squared for Regression Analysis",
+      "difficulty": "easy",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/69",
+      "path": "problems/0069-calculate-r-squared-for-regression-analysis",
+      "first_solved_at": "2026-08-03T05:25:43.576Z",
+      "last_pushed_at": "2026-08-03T05:25:43.576Z",
+      "language": "python",
+      "lines": 6
+    },
+    "problem:70": {
+      "kind": "problem",
+      "id": "70",
+      "title": "Calculate Image Brightness",
+      "difficulty": "easy",
+      "category": "Computer Vision",
+      "url": "https://www.deep-ml.com/problems/70",
+      "path": "problems/0070-calculate-image-brightness",
+      "first_solved_at": "2026-08-03T05:47:22.857Z",
+      "last_pushed_at": "2026-08-03T05:47:22.857Z",
+      "language": "python",
+      "lines": 24
+    },
+    "problem:72": {
+      "kind": "problem",
+      "id": "72",
+      "title": "Calculate Jaccard Index for Binary Classification",
+      "difficulty": "easy",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/72",
+      "path": "problems/0072-calculate-jaccard-index-for-binary-classification",
+      "first_solved_at": "2026-08-03T05:56:33.157Z",
+      "last_pushed_at": "2026-08-03T05:56:33.157Z",
+      "language": "python",
+      "lines": 11
+    },
+    "problem:73": {
+      "kind": "problem",
+      "id": "73",
+      "title": "Calculate Dice Score for Classification",
+      "difficulty": "easy",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/73",
+      "path": "problems/0073-calculate-dice-score-for-classification",
+      "first_solved_at": "2026-08-03T06:11:40.647Z",
+      "last_pushed_at": "2026-08-03T06:11:40.647Z",
+      "language": "python",
+      "lines": 9
+    },
+    "problem:78": {
+      "kind": "problem",
+      "id": "78",
+      "title": "Descriptive Statistics Calculator",
+      "difficulty": "easy",
+      "category": "Statistics",
+      "url": "https://www.deep-ml.com/problems/78",
+      "path": "problems/0078-descriptive-statistics-calculator",
+      "first_solved_at": "2026-08-03T10:42:57.037Z",
+      "last_pushed_at": "2026-08-03T10:42:57.037Z",
+      "language": "python",
+      "lines": 64
+    },
+    "problem:83": {
+      "kind": "problem",
+      "id": "83",
+      "title": "Dot Product Calculator",
+      "difficulty": "easy",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/83",
+      "path": "problems/0083-dot-product-calculator",
+      "first_solved_at": "2026-08-03T11:00:40.409Z",
+      "last_pushed_at": "2026-08-03T11:00:40.409Z",
+      "language": "python",
+      "lines": 12
     }
   }
 }
