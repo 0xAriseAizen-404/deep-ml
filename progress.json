@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-27T09:41:33.513Z",
+  "generated_at": "2026-09-27T09:41:35.285Z",
   "items": {
     "problem:356": {
       "kind": "problem",
@@ -702,6 +702,97 @@
       "last_pushed_at": "2026-08-03T11:00:40.409Z",
       "language": "python",
       "lines": 12
+    },
+    "problem:86": {
+      "kind": "problem",
+      "id": "86",
+      "title": "Detect Overfitting or Underfitting",
+      "difficulty": "easy",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/86",
+      "path": "problems/0086-detect-overfitting-or-underfitting",
+      "first_solved_at": "2026-08-04T03:48:26.518Z",
+      "last_pushed_at": "2026-08-04T03:48:26.518Z",
+      "language": "python",
+      "lines": 13
+    },
+    "problem:91": {
+      "kind": "problem",
+      "id": "91",
+      "title": "Calculate F1 Score from Predicted and True Labels",
+      "difficulty": "easy",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/91",
+      "path": "problems/0091-calculate-f1-score-from-predicted-and-true-labels",
+      "first_solved_at": "2026-08-04T03:59:36.116Z",
+      "last_pushed_at": "2026-08-04T03:59:36.116Z",
+      "language": "python",
+      "lines": 46
+    },
+    "problem:93": {
+      "kind": "problem",
+      "id": "93",
+      "title": "Calculate Mean Absolute Error (MAE)",
+      "difficulty": "easy",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/93",
+      "path": "problems/0093-calculate-mean-absolute-error-mae",
+      "first_solved_at": "2026-08-04T05:26:35.192Z",
+      "last_pushed_at": "2026-08-04T05:26:35.192Z",
+      "language": "python",
+      "lines": 15
+    },
+    "problem:96": {
+      "kind": "problem",
+      "id": "96",
+      "title": "Implement the Hard Sigmoid Activation Function",
+      "difficulty": "easy",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/96",
+      "path": "problems/0096-implement-the-hard-sigmoid-activation-function",
+      "first_solved_at": "2026-08-04T05:31:40.005Z",
+      "last_pushed_at": "2026-08-04T05:31:40.005Z",
+      "language": "python",
+      "lines": 20
+    },
+    "problem:97": {
+      "kind": "problem",
+      "id": "97",
+      "title": "Implement the ELU Activation Function",
+      "difficulty": "easy",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/97",
+      "path": "problems/0097-implement-the-elu-activation-function",
+      "first_solved_at": "2026-08-04T05:46:38.775Z",
+      "last_pushed_at": "2026-08-04T05:46:38.775Z",
+      "language": "python",
+      "lines": 17
+    },
+    "problem:6": {
+      "kind": "problem",
+      "id": "6",
+      "title": "Calculate Eigenvalues of a Matrix",
+      "difficulty": "medium",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/6",
+      "path": "problems/0006-calculate-eigenvalues-of-a-matrix",
+      "first_solved_at": "2026-08-04T06:25:54.161Z",
+      "last_pushed_at": "2026-08-04T06:25:54.161Z",
+      "language": "python",
+      "lines": 23
+    },
+    "problem:60": {
+      "kind": "problem",
+      "id": "60",
+      "title": "Implement TF-IDF (Term Frequency-Inverse Document Frequency)",
+      "difficulty": "medium",
+      "category": "NLP",
+      "url": "https://www.deep-ml.com/problems/60",
+      "path": "problems/0060-implement-tf-idf-term-frequency-inverse-document-frequency",
+      "first_solved_at": "2026-08-04T07:05:54.917Z",
+      "last_pushed_at": "2026-08-04T07:05:54.917Z",
+      "language": "python",
+      "lines": 26
     }
   }
 }
