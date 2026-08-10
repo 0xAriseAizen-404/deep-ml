@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-27T09:41:35.285Z",
+  "generated_at": "2026-09-27T09:41:37.408Z",
   "items": {
     "problem:356": {
       "kind": "problem",
@@ -793,6 +793,58 @@
       "last_pushed_at": "2026-08-04T07:05:54.917Z",
       "language": "python",
       "lines": 26
+    },
+    "problem:112": {
+      "kind": "problem",
+      "id": "112",
+      "title": "Min-Max Scaling of Feature Values",
+      "difficulty": "easy",
+      "category": "Data Structures",
+      "url": "https://www.deep-ml.com/problems/112",
+      "path": "problems/0112-min-max-scaling-of-feature-values",
+      "first_solved_at": "2026-08-10T09:54:41.500Z",
+      "last_pushed_at": "2026-08-10T09:54:41.500Z",
+      "language": "python",
+      "lines": 16
+    },
+    "problem:114": {
+      "kind": "problem",
+      "id": "114",
+      "title": "Implement Global Average Pooling",
+      "difficulty": "easy",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/114",
+      "path": "problems/0114-implement-global-average-pooling",
+      "first_solved_at": "2026-08-10T10:14:11.550Z",
+      "last_pushed_at": "2026-08-10T10:14:11.550Z",
+      "language": "python",
+      "lines": 15
+    },
+    "problem:95": {
+      "kind": "problem",
+      "id": "95",
+      "title": "Calculate the Phi Coefficient",
+      "difficulty": "easy",
+      "category": "Statistics",
+      "url": "https://www.deep-ml.com/problems/95",
+      "path": "problems/0095-calculate-the-phi-coefficient",
+      "first_solved_at": "2026-08-10T10:32:29.943Z",
+      "last_pushed_at": "2026-08-10T10:32:29.943Z",
+      "language": "python",
+      "lines": 28
+    },
+    "problem:47": {
+      "kind": "problem",
+      "id": "47",
+      "title": "Implement Gradient Descent Variants with MSE Loss",
+      "difficulty": "medium",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/47",
+      "path": "problems/0047-implement-gradient-descent-variants-with-mse-loss",
+      "first_solved_at": "2026-08-10T16:53:44.266Z",
+      "last_pushed_at": "2026-08-10T16:53:44.266Z",
+      "language": "python",
+      "lines": 64
     }
   }
 }
