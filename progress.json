@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-27T09:41:53.580Z",
+  "generated_at": "2026-09-27T09:41:55.682Z",
   "items": {
     "problem:356": {
       "kind": "problem",
@@ -936,6 +936,45 @@
       "last_pushed_at": "2026-08-11T04:08:25.312Z",
       "language": "python",
       "lines": 4
+    },
+    "problem:118": {
+      "kind": "problem",
+      "id": "118",
+      "title": "Compute the Cross Product of Two 3D Vectors",
+      "difficulty": "easy",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/118",
+      "path": "problems/0118-compute-the-cross-product-of-two-3d-vectors",
+      "first_solved_at": "2026-08-12T05:43:25.173Z",
+      "last_pushed_at": "2026-08-12T05:43:25.173Z",
+      "language": "python",
+      "lines": 263
+    },
+    "problem:121": {
+      "kind": "problem",
+      "id": "121",
+      "title": "Vector Element-wise Sum",
+      "difficulty": "easy",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/121",
+      "path": "problems/0121-vector-element-wise-sum",
+      "first_solved_at": "2026-08-12T06:01:02.710Z",
+      "last_pushed_at": "2026-08-12T06:01:02.710Z",
+      "language": "python",
+      "lines": 12
+    },
+    "problem:129": {
+      "kind": "problem",
+      "id": "129",
+      "title": "Calculate Unigram Probability from Corpus",
+      "difficulty": "easy",
+      "category": "NLP",
+      "url": "https://www.deep-ml.com/problems/129",
+      "path": "problems/0129-calculate-unigram-probability-from-corpus",
+      "first_solved_at": "2026-08-12T06:07:07.692Z",
+      "last_pushed_at": "2026-08-12T06:07:07.692Z",
+      "language": "python",
+      "lines": 8
     }
   }
 }
