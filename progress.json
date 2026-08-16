@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-27T09:41:55.682Z",
+  "generated_at": "2026-09-27T09:41:57.267Z",
   "items": {
     "problem:356": {
       "kind": "problem",
@@ -975,6 +975,32 @@
       "last_pushed_at": "2026-08-12T06:07:07.692Z",
       "language": "python",
       "lines": 8
+    },
+    "problem:237": {
+      "kind": "problem",
+      "id": "237",
+      "title": "Convert RGB Image to Grayscale",
+      "difficulty": "easy",
+      "category": "Computer Vision",
+      "url": "https://www.deep-ml.com/problems/237",
+      "path": "problems/0237-convert-rgb-image-to-grayscale",
+      "first_solved_at": "2026-08-16T09:50:06.824Z",
+      "last_pushed_at": "2026-08-16T09:50:06.824Z",
+      "language": "python",
+      "lines": 34
+    },
+    "problem:18": {
+      "kind": "problem",
+      "id": "18",
+      "title": "Implement K-Fold Cross-Validation",
+      "difficulty": "medium",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/18",
+      "path": "problems/0018-implement-k-fold-cross-validation",
+      "first_solved_at": "2026-08-16T10:23:07.889Z",
+      "last_pushed_at": "2026-08-16T10:23:07.889Z",
+      "language": "python",
+      "lines": 46
     }
   }
 }

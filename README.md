@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**75** solved · 75 problems · 0 labs · 0 math
+**77** solved · 77 problems · 0 labs · 0 math
 
 ![Coverage](./coverage.svg)
 
@@ -30,6 +30,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Calculate Unigram Probability from Corpus](https://www.deep-ml.com/problems/129) | easy | 2026-08-12 | [solution](problems/0129-calculate-unigram-probability-from-corpus) |
 | [Compute the Cross Product of Two 3D Vectors](https://www.deep-ml.com/problems/118) | easy | 2026-08-12 | [solution](problems/0118-compute-the-cross-product-of-two-3d-vectors) |
 | [Compute TPR and FPR from Classifications](https://www.deep-ml.com/problems/1217) | easy | 2026-07-27 | [solution](problems/1217-compute-tpr-and-fpr-from-classifications) |
+| [Convert RGB Image to Grayscale](https://www.deep-ml.com/problems/237) | easy | 2026-08-16 | [solution](problems/0237-convert-rgb-image-to-grayscale) |
 | [Convert Vector to Diagonal Matrix](https://www.deep-ml.com/problems/35) | easy | 2026-07-27 | [solution](problems/0035-convert-vector-to-diagonal-matrix) |
 | [Count Parameters of a Sequential Model](https://www.deep-ml.com/problems/1218) | easy | 2026-07-29 | [solution](problems/1218-count-parameters-of-a-sequential-model) |
 | [Derivative of a Polynomial](https://www.deep-ml.com/problems/116) | easy | 2026-08-11 | [solution](problems/0116-derivative-of-a-polynomial) |
@@ -78,6 +79,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Generate Random Subsets of a Dataset](https://www.deep-ml.com/problems/33) | medium | 2026-07-28 | [solution](problems/0033-generate-random-subsets-of-a-dataset) |
 | [Generate Sorted Polynomial Features](https://www.deep-ml.com/problems/32) | medium | 2026-07-28 | [solution](problems/0032-generate-sorted-polynomial-features) |
 | [Implement Gradient Descent Variants with MSE Loss](https://www.deep-ml.com/problems/47) | medium | 2026-08-10 | [solution](problems/0047-implement-gradient-descent-variants-with-mse-loss) |
+| [Implement K-Fold Cross-Validation](https://www.deep-ml.com/problems/18) | medium | 2026-08-16 | [solution](problems/0018-implement-k-fold-cross-validation) |
 | [Implement TF-IDF (Term Frequency-Inverse Document Frequency)](https://www.deep-ml.com/problems/60) | medium | 2026-08-04 | [solution](problems/0060-implement-tf-idf-term-frequency-inverse-document-frequency) |
 | [K-Means Clustering](https://www.deep-ml.com/problems/17) | medium | 2026-07-23 | [solution](problems/0017-k-means-clustering) |
 | [Matrix times Matrix ](https://www.deep-ml.com/problems/9) | medium | 2026-07-16 | [solution](problems/0009-matrix-times-matrix) |
