@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-27T09:42:03.467Z",
+  "generated_at": "2026-09-27T09:42:05.175Z",
   "items": {
     "problem:356": {
       "kind": "problem",
@@ -1131,6 +1131,32 @@
       "last_pushed_at": "2026-09-01T06:52:35.333Z",
       "language": "python",
       "lines": 59
+    },
+    "problem:120": {
+      "kind": "problem",
+      "id": "120",
+      "title": "Bhattacharyya Distance Between Two Distributions",
+      "difficulty": "easy",
+      "category": "Statistics",
+      "url": "https://www.deep-ml.com/problems/120",
+      "path": "problems/0120-bhattacharyya-distance-between-two-distributions",
+      "first_solved_at": "2026-09-15T03:15:55.266Z",
+      "last_pushed_at": "2026-09-15T03:15:55.266Z",
+      "language": "python",
+      "lines": 18
+    },
+    "problem:59": {
+      "kind": "problem",
+      "id": "59",
+      "title": "Implement Long Short-Term Memory (LSTM) Network",
+      "difficulty": "medium",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/59",
+      "path": "problems/0059-implement-long-short-term-memory-lstm-network",
+      "first_solved_at": "2026-09-15T17:25:26.282Z",
+      "last_pushed_at": "2026-09-15T17:25:26.282Z",
+      "language": "python",
+      "lines": 44
     }
   }
 }
