@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**89** solved · 89 problems · 0 labs · 0 math
+**91** solved · 91 problems · 0 labs · 0 math
 
 ![Coverage](./coverage.svg)
 
@@ -85,7 +85,9 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Generate Random Subsets of a Dataset](https://www.deep-ml.com/problems/33) | medium | 2026-07-28 | [solution](problems/0033-generate-random-subsets-of-a-dataset) |
 | [Generate Sorted Polynomial Features](https://www.deep-ml.com/problems/32) | medium | 2026-07-28 | [solution](problems/0032-generate-sorted-polynomial-features) |
 | [Implement Adam Optimization Algorithm](https://www.deep-ml.com/problems/49) | medium | 2026-08-24 | [solution](problems/0049-implement-adam-optimization-algorithm) |
+| [Implement an LSTM Cell from Scratch](https://www.deep-ml.com/problems/907) | medium | 2026-09-17 | [solution](problems/0907-implement-an-lstm-cell-from-scratch) |
 | [Implement Gradient Descent Variants with MSE Loss](https://www.deep-ml.com/problems/47) | medium | 2026-08-10 | [solution](problems/0047-implement-gradient-descent-variants-with-mse-loss) |
+| [Implement GRU Cell](https://www.deep-ml.com/problems/287) | medium | 2026-09-17 | [solution](problems/0287-implement-gru-cell) |
 | [Implement K-Fold Cross-Validation](https://www.deep-ml.com/problems/18) | medium | 2026-08-16 | [solution](problems/0018-implement-k-fold-cross-validation) |
 | [Implement Lasso Regression using ISTA](https://www.deep-ml.com/problems/50) | medium | 2026-09-01 | [solution](problems/0050-implement-lasso-regression-using-ista) |
 | [Implement Long Short-Term Memory (LSTM) Network](https://www.deep-ml.com/problems/59) | medium | 2026-09-15 | [solution](problems/0059-implement-long-short-term-memory-lstm-network) |

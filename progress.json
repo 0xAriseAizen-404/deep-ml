@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-27T09:42:05.175Z",
+  "generated_at": "2026-09-27T09:42:06.702Z",
   "items": {
     "problem:356": {
       "kind": "problem",
@@ -1157,6 +1157,32 @@
       "last_pushed_at": "2026-09-15T17:25:26.282Z",
       "language": "python",
       "lines": 44
+    },
+    "problem:907": {
+      "kind": "problem",
+      "id": "907",
+      "title": "Implement an LSTM Cell from Scratch",
+      "difficulty": "medium",
+      "category": "Pytorch",
+      "url": "https://www.deep-ml.com/problems/907",
+      "path": "problems/0907-implement-an-lstm-cell-from-scratch",
+      "first_solved_at": "2026-09-17T17:42:52.695Z",
+      "last_pushed_at": "2026-09-17T17:42:52.695Z",
+      "language": "python",
+      "lines": 51
+    },
+    "problem:287": {
+      "kind": "problem",
+      "id": "287",
+      "title": "Implement GRU Cell",
+      "difficulty": "medium",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/287",
+      "path": "problems/0287-implement-gru-cell",
+      "first_solved_at": "2026-09-17T17:55:20.338Z",
+      "last_pushed_at": "2026-09-17T17:55:20.338Z",
+      "language": "python",
+      "lines": 31
     }
   }
 }
