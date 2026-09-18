@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-27T09:42:06.702Z",
+  "generated_at": "2026-09-27T09:42:08.250Z",
   "items": {
     "problem:356": {
       "kind": "problem",
@@ -1183,6 +1183,45 @@
       "last_pushed_at": "2026-09-17T17:55:20.338Z",
       "language": "python",
       "lines": 31
+    },
+    "problem:134": {
+      "kind": "problem",
+      "id": "134",
+      "title": "Compute Multi-class Cross-Entropy Loss",
+      "difficulty": "easy",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/134",
+      "path": "problems/0134-compute-multi-class-cross-entropy-loss",
+      "first_solved_at": "2026-09-18T12:44:04.155Z",
+      "last_pushed_at": "2026-09-18T12:44:04.155Z",
+      "language": "python",
+      "lines": 8
+    },
+    "problem:141": {
+      "kind": "problem",
+      "id": "141",
+      "title": "Shift and Scale Array to Target Range",
+      "difficulty": "easy",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/141",
+      "path": "problems/0141-shift-and-scale-array-to-target-range",
+      "first_solved_at": "2026-09-18T12:50:59.731Z",
+      "last_pushed_at": "2026-09-18T12:50:59.731Z",
+      "language": "python",
+      "lines": 14
+    },
+    "problem:195": {
+      "kind": "problem",
+      "id": "195",
+      "title": "Matrix Determinant & Trace",
+      "difficulty": "easy",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/195",
+      "path": "problems/0195-matrix-determinant-trace",
+      "first_solved_at": "2026-09-18T12:55:59.489Z",
+      "last_pushed_at": "2026-09-18T12:55:59.489Z",
+      "language": "python",
+      "lines": 30
     }
   }
 }
