@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-27T09:42:08.250Z",
+  "generated_at": "2026-09-27T09:42:09.846Z",
   "items": {
     "problem:356": {
       "kind": "problem",
@@ -1222,6 +1222,45 @@
       "last_pushed_at": "2026-09-18T12:55:59.489Z",
       "language": "python",
       "lines": 30
+    },
+    "problem:58": {
+      "kind": "problem",
+      "id": "58",
+      "title": "Gaussian Elimination for Solving Linear Systems",
+      "difficulty": "medium",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/58",
+      "path": "problems/0058-gaussian-elimination-for-solving-linear-systems",
+      "first_solved_at": "2026-09-23T09:25:00.117Z",
+      "last_pushed_at": "2026-09-23T09:25:00.117Z",
+      "language": "python",
+      "lines": 18
+    },
+    "problem:68": {
+      "kind": "problem",
+      "id": "68",
+      "title": "Find the column space of a matrix",
+      "difficulty": "medium",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/68",
+      "path": "problems/0068-find-the-column-space-of-a-matrix",
+      "first_solved_at": "2026-09-23T10:09:41.473Z",
+      "last_pushed_at": "2026-09-23T10:09:41.473Z",
+      "language": "python",
+      "lines": 34
+    },
+    "problem:263": {
+      "kind": "problem",
+      "id": "263",
+      "title": "Implement Binary Cross-Entropy Loss",
+      "difficulty": "easy",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/263",
+      "path": "problems/0263-implement-binary-cross-entropy-loss",
+      "first_solved_at": "2026-09-23T10:33:58.435Z",
+      "last_pushed_at": "2026-09-23T10:33:58.435Z",
+      "language": "python",
+      "lines": 32
     }
   }
 }

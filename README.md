@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**94** solved · 94 problems · 0 labs · 0 math
+**97** solved · 97 problems · 0 labs · 0 math
 
 ![Coverage](./coverage.svg)
 
@@ -43,6 +43,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Generate a Confusion Matrix for Binary Classification](https://www.deep-ml.com/problems/75) | easy | 2026-07-31 | [solution](problems/0075-generate-a-confusion-matrix-for-binary-classification) |
 | [Grayscale Image Contrast Calculator](https://www.deep-ml.com/problems/82) | easy | 2026-09-01 | [solution](problems/0082-grayscale-image-contrast-calculator) |
 | [Implement a Simple Residual Block with Shortcut Connection](https://www.deep-ml.com/problems/113) | easy | 2026-08-11 | [solution](problems/0113-implement-a-simple-residual-block-with-shortcut-connection) |
+| [Implement Binary Cross-Entropy Loss](https://www.deep-ml.com/problems/263) | easy | 2026-09-23 | [solution](problems/0263-implement-binary-cross-entropy-loss) |
 | [Implement Compressed Column Sparse Matrix Format (CSC)](https://www.deep-ml.com/problems/67) | easy | 2026-07-31 | [solution](problems/0067-implement-compressed-column-sparse-matrix-format-csc) |
 | [Implement Compressed Row Sparse Matrix (CSR) Format Conversion](https://www.deep-ml.com/problems/65) | easy | 2026-07-31 | [solution](problems/0065-implement-compressed-row-sparse-matrix-csr-format-conversion) |
 | [Implement F-Score Calculation for Binary Classification](https://www.deep-ml.com/problems/61) | easy | 2026-07-30 | [solution](problems/0061-implement-f-score-calculation-for-binary-classification) |
@@ -85,6 +86,8 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Calculate Eigenvalues of a Matrix](https://www.deep-ml.com/problems/6) | medium | 2026-08-04 | [solution](problems/0006-calculate-eigenvalues-of-a-matrix) |
 | [Calculate Performance Metrics for a Classification Model](https://www.deep-ml.com/problems/77) | medium | 2026-08-24 | [solution](problems/0077-calculate-performance-metrics-for-a-classification-model) |
 | [Divide Dataset Based on Feature Threshold](https://www.deep-ml.com/problems/31) | medium | 2026-07-28 | [solution](problems/0031-divide-dataset-based-on-feature-threshold) |
+| [Find the column space of a matrix](https://www.deep-ml.com/problems/68) | medium | 2026-09-23 | [solution](problems/0068-find-the-column-space-of-a-matrix) |
+| [Gaussian Elimination for Solving Linear Systems](https://www.deep-ml.com/problems/58) | medium | 2026-09-23 | [solution](problems/0058-gaussian-elimination-for-solving-linear-systems) |
 | [Generate Random Subsets of a Dataset](https://www.deep-ml.com/problems/33) | medium | 2026-07-28 | [solution](problems/0033-generate-random-subsets-of-a-dataset) |
 | [Generate Sorted Polynomial Features](https://www.deep-ml.com/problems/32) | medium | 2026-07-28 | [solution](problems/0032-generate-sorted-polynomial-features) |
 | [Implement Adam Optimization Algorithm](https://www.deep-ml.com/problems/49) | medium | 2026-08-24 | [solution](problems/0049-implement-adam-optimization-algorithm) |
