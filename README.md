@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**97** solved · 97 problems · 0 labs · 0 math
+**99** solved · 99 problems · 0 labs · 0 math
 
 ![Coverage](./coverage.svg)
 
@@ -82,6 +82,8 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Transpose of a Matrix](https://www.deep-ml.com/problems/2) | easy | 2026-07-14 | [solution](problems/0002-transpose-of-a-matrix) |
 | [Vector Element-wise Sum](https://www.deep-ml.com/problems/121) | easy | 2026-08-12 | [solution](problems/0121-vector-element-wise-sum) |
 | [2D Translation Matrix Implementation](https://www.deep-ml.com/problems/55) | medium | 2026-08-25 | [solution](problems/0055-2d-translation-matrix-implementation) |
+| [Binomial Distribution Probability](https://www.deep-ml.com/problems/79) | medium | 2026-09-25 | [solution](problems/0079-binomial-distribution-probability) |
+| [BM25 Ranking ](https://www.deep-ml.com/problems/90) | medium | 2026-09-25 | [solution](problems/0090-bm25-ranking) |
 | [Calculate Correlation Matrix](https://www.deep-ml.com/problems/37) | medium | 2026-07-29 | [solution](problems/0037-calculate-correlation-matrix) |
 | [Calculate Eigenvalues of a Matrix](https://www.deep-ml.com/problems/6) | medium | 2026-08-04 | [solution](problems/0006-calculate-eigenvalues-of-a-matrix) |
 | [Calculate Performance Metrics for a Classification Model](https://www.deep-ml.com/problems/77) | medium | 2026-08-24 | [solution](problems/0077-calculate-performance-metrics-for-a-classification-model) |
