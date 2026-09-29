@@ -11,6 +11,7 @@ class HashTable:
         old_table = self.table
         self.capacity *= 2
         self.table = [[] for _ in range(self.capacity)]
+        self.size = 0
         for bucket in old_table:
             for key, value in bucket:
                 self.put(key, value)
@@ -45,10 +46,10 @@ class HashTable:
                 return True
         return False
     
-    def contians(self, key):
+    def contains(self, key):
         index = self._hash(key)
-        bucket = self.table(index)
-        for k, _ in enumerate(bucket):
+        bucket = self.table[index]
+        for k, _ in bucket:
             if key == k:
                 return True
         return False
