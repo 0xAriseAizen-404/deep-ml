@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-29T06:52:57.169Z",
+  "generated_at": "2026-09-29T08:50:12.538Z",
   "items": {
     "problem:356": {
       "kind": "problem",
@@ -1313,6 +1313,19 @@
       "last_pushed_at": "2026-09-29T06:52:49.340Z",
       "language": "python",
       "lines": 84
+    },
+    "problem:1138": {
+      "kind": "problem",
+      "id": "1138",
+      "title": "Running Median of a Data Stream",
+      "difficulty": "medium",
+      "category": "Data Structures",
+      "url": "https://www.deep-ml.com/problems/1138",
+      "path": "problems/1138-running-median-of-a-data-stream",
+      "first_solved_at": "2026-09-29T08:50:12.420Z",
+      "last_pushed_at": "2026-09-29T08:50:12.420Z",
+      "language": "python",
+      "lines": 123
     }
   }
 }
