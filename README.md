@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**108** solved · 108 problems · 0 labs · 0 math
+**109** solved · 109 problems · 0 labs · 0 math
 
 ![Coverage](./coverage.svg)
 
@@ -111,6 +111,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Implement TF-IDF (Term Frequency-Inverse Document Frequency)](https://www.deep-ml.com/problems/60) | medium | 2026-08-04 | [solution](problems/0060-implement-tf-idf-term-frequency-inverse-document-frequency) |
 | [Implementing a Simple RNN](https://www.deep-ml.com/problems/54) | medium | 2026-08-23 | [solution](problems/0054-implementing-a-simple-rnn) |
 | [K-Means Clustering](https://www.deep-ml.com/problems/17) | medium | 2026-07-23 | [solution](problems/0017-k-means-clustering) |
+| [Longest Substring / Subarray with Two Pointers](https://www.deep-ml.com/problems/1148) | medium | 2026-10-15 | [solution](problems/1148-longest-substring-subarray-with-two-pointers) |
 | [Matrix times Matrix ](https://www.deep-ml.com/problems/9) | medium | 2026-07-16 | [solution](problems/0009-matrix-times-matrix) |
 | [Matrix Transformation ](https://www.deep-ml.com/problems/7) | medium | 2026-07-15 | [solution](problems/0007-matrix-transformation) |
 | [Outlier Detection and Removal Using IQR Method](https://www.deep-ml.com/problems/355) | medium | 2026-09-27 | [solution](problems/0355-outlier-detection-and-removal-using-iqr-method) |
