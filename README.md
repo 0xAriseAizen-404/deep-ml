@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**109** solved · 109 problems · 0 labs · 0 math
+**110** solved · 110 problems · 0 labs · 0 math
 
 ![Coverage](./coverage.svg)
 
@@ -114,6 +114,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Longest Substring / Subarray with Two Pointers](https://www.deep-ml.com/problems/1148) | medium | 2026-10-15 | [solution](problems/1148-longest-substring-subarray-with-two-pointers) |
 | [Matrix times Matrix ](https://www.deep-ml.com/problems/9) | medium | 2026-07-16 | [solution](problems/0009-matrix-times-matrix) |
 | [Matrix Transformation ](https://www.deep-ml.com/problems/7) | medium | 2026-07-15 | [solution](problems/0007-matrix-transformation) |
+| [Minimum Remove to Make Valid Parentheses](https://www.deep-ml.com/problems/1159) | medium | 2026-10-18 | [solution](problems/1159-minimum-remove-to-make-valid-parentheses) |
 | [Outlier Detection and Removal Using IQR Method](https://www.deep-ml.com/problems/355) | medium | 2026-09-27 | [solution](problems/0355-outlier-detection-and-removal-using-iqr-method) |
 | [Running Median of a Data Stream](https://www.deep-ml.com/problems/1138) | medium | 2026-09-29 | [solution](problems/1138-running-median-of-a-data-stream) |
 | [Simple Convolutional 2D Layer](https://www.deep-ml.com/problems/41) | medium | 2026-07-29 | [solution](problems/0041-simple-convolutional-2d-layer) |
