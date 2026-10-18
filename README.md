@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**110** solved · 110 problems · 0 labs · 0 math
+**111** solved · 111 problems · 0 labs · 0 math
 
 ![Coverage](./coverage.svg)
 
@@ -92,6 +92,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Calculate Correlation Matrix](https://www.deep-ml.com/problems/37) | medium | 2026-07-29 | [solution](problems/0037-calculate-correlation-matrix) |
 | [Calculate Eigenvalues of a Matrix](https://www.deep-ml.com/problems/6) | medium | 2026-08-04 | [solution](problems/0006-calculate-eigenvalues-of-a-matrix) |
 | [Calculate Performance Metrics for a Classification Model](https://www.deep-ml.com/problems/77) | medium | 2026-08-24 | [solution](problems/0077-calculate-performance-metrics-for-a-classification-model) |
+| [Count Subarrays Summing to K (Prefix-Sum Hash Map)](https://www.deep-ml.com/problems/1161) | medium | 2026-10-18 | [solution](problems/1161-count-subarrays-summing-to-k-prefix-sum-hash-map) |
 | [Detect a Cycle in a Linked List and a Graph](https://www.deep-ml.com/problems/1087) | medium | 2026-10-05 | [solution](problems/1087-detect-a-cycle-in-a-linked-list-and-a-graph) |
 | [Divide Dataset Based on Feature Threshold](https://www.deep-ml.com/problems/31) | medium | 2026-07-28 | [solution](problems/0031-divide-dataset-based-on-feature-threshold) |
 | [Find the column space of a matrix](https://www.deep-ml.com/problems/68) | medium | 2026-09-23 | [solution](problems/0068-find-the-column-space-of-a-matrix) |
