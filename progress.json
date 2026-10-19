@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-19T08:33:09.796Z",
+  "generated_at": "2026-10-19T09:25:00.233Z",
   "items": {
     "problem:356": {
       "kind": "problem",
@@ -1469,6 +1469,19 @@
       "last_pushed_at": "2026-10-19T08:33:09.691Z",
       "language": "python",
       "lines": 11
+    },
+    "problem:1160": {
+      "kind": "problem",
+      "id": "1160",
+      "title": "Valid Palindrome II (Delete At Most One Char)",
+      "difficulty": "easy",
+      "category": "Algorithms",
+      "url": "https://www.deep-ml.com/problems/1160",
+      "path": "problems/1160-valid-palindrome-ii-delete-at-most-one-char",
+      "first_solved_at": "2026-10-19T09:24:59.484Z",
+      "last_pushed_at": "2026-10-19T09:24:59.484Z",
+      "language": "python",
+      "lines": 19
     }
   }
 }
