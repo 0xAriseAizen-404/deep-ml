@@ -16,20 +16,20 @@ def compute_chain_rule_gradient(functions: list[str], x: float) -> float:
 		['exp', 'sin', 'square'] represents exp(sin(x²))
 	"""
 	# My Solution
-	def derivate_function(function: str, u: float):
+	def apply_and_derivate(function: str, u: float):
 		if function == "square":
 			return u * u, 2 * u
-		elif function == "sin":
+		if function == "sin":
 			return np.sin(u), np.cos(u)
-		elif function == "exp":
+		if function == "exp":
 			return np.exp(u), np.exp(u)
-		elif function == "log":
+		if function == "log":
 			return np.log(u), 1 / u
-		return u, 1
+		raise ValueError(f"Unknown function: {f}")
 	
-	org_func = x
+	value = x
 	h_x = 1
 	for func in functions[::-1]:
-		org_func, derv_func = derivate_function(func, org_func)
-		h_x *= derv_func
+		value, local_derivative = apply_and_derivate(func, value)
+		h_x *= local_derivative
 	return h_x
