@@ -15,7 +15,7 @@ def compute_partial_derivatives(func_name: str, point: tuple[float, ...]) -> tup
 	Returns:
 		Tuple of partial derivatives (∂f/∂x, ∂f/∂y, ...) at point
 	"""
-
+	# My Solution
 	x, y = point[0], point[1]
 	if func_name == "poly2d":
 		return (2 * x * y + y * y, x * x + 2 * x * y)
