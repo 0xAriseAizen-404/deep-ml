@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**127** solved · 118 problems · 0 labs · 9 math
+**128** solved · 119 problems · 0 labs · 9 math
 
 ![Coverage](./coverage.svg)
 
@@ -95,6 +95,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Calculate Correlation Matrix](https://www.deep-ml.com/problems/37) | medium | 2026-07-29 | [solution](problems/0037-calculate-correlation-matrix) |
 | [Calculate Eigenvalues of a Matrix](https://www.deep-ml.com/problems/6) | medium | 2026-08-04 | [solution](problems/0006-calculate-eigenvalues-of-a-matrix) |
 | [Calculate Performance Metrics for a Classification Model](https://www.deep-ml.com/problems/77) | medium | 2026-08-24 | [solution](problems/0077-calculate-performance-metrics-for-a-classification-model) |
+| [Chain Rule for Composite Functions](https://www.deep-ml.com/problems/214) | medium | 2026-10-27 | [solution](problems/0214-chain-rule-for-composite-functions) |
 | [Cholesky Decomposition](https://www.deep-ml.com/problems/334) | medium | 2026-10-27 | [solution](problems/0334-cholesky-decomposition) |
 | [Count Subarrays Summing to K (Prefix-Sum Hash Map)](https://www.deep-ml.com/problems/1161) | medium | 2026-10-18 | [solution](problems/1161-count-subarrays-summing-to-k-prefix-sum-hash-map) |
 | [Detect a Cycle in a Linked List and a Graph](https://www.deep-ml.com/problems/1087) | medium | 2026-10-05 | [solution](problems/1087-detect-a-cycle-in-a-linked-list-and-a-graph) |
