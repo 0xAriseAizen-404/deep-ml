@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**135** solved · 123 problems · 0 labs · 12 math
+**136** solved · 124 problems · 0 labs · 12 math
 
 ![Coverage](./coverage.svg)
 
@@ -76,6 +76,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [One-Hot Encoding of Nominal Values](https://www.deep-ml.com/problems/34) | easy | 2026-07-27 | [solution](problems/0034-one-hot-encoding-of-nominal-values) |
 | [Poisson Distribution Probability Calculator](https://www.deep-ml.com/problems/81) | easy | 2026-09-01 | [solution](problems/0081-poisson-distribution-probability-calculator) |
 | [Random Shuffle of Dataset](https://www.deep-ml.com/problems/29) | easy | 2026-07-23 | [solution](problems/0029-random-shuffle-of-dataset) |
+| [Recursive Least Squares for Simple Linear Regression](https://www.deep-ml.com/problems/1820) | easy | 2026-11-03 | [solution](problems/1820-recursive-least-squares-for-simple-linear-regression) |
 | [Reshape Matrix](https://www.deep-ml.com/problems/3) | easy | 2026-07-14 | [solution](problems/0003-reshape-matrix) |
 | [Reverse a Singly Linked List](https://www.deep-ml.com/problems/1250) | easy | 2026-10-07 | [solution](problems/1250-reverse-a-singly-linked-list) |
 | [Scalar Multiplication of a Matrix](https://www.deep-ml.com/problems/5) | easy | 2026-07-15 | [solution](problems/0005-scalar-multiplication-of-a-matrix) |
