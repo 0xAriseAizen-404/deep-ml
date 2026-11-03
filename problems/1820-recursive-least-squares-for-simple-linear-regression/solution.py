@@ -33,4 +33,5 @@ def online_simple_regression(xs, ys):
             w1 = moment_xy / moment_xx
             w0 = mean_y - w1 * mean_x
         res.append([w0, w1])
+        
     return np.array(res)
