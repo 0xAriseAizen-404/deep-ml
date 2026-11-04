@@ -25,5 +25,5 @@ def numerical_gradient_check(f, x, analytical_grad, epsilon=1e-7):
         x_minus[i] -= epsilon
         numerical_grad[i] = (f(x_plus) - f(x_minus)) / (2 * epsilon)
 
-    relative_error = np.linalg.norm(numerical_grad - analytical_grad) / (np.linalg.norm(numerical_grad) + np.linalg.norm(analytical_grad))
+    relative_error = np.linalg.norm(numerical_grad - analytical_grad) / (np.linalg.norm(numerical_grad) + np.linalg.norm(analytical_grad) + 1e-12)
     return (numerical_grad, relative_error)
