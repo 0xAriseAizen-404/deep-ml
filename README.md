@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**136** solved · 124 problems · 0 labs · 12 math
+**137** solved · 125 problems · 0 labs · 12 math
 
 ![Coverage](./coverage.svg)
 
@@ -127,6 +127,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Matrix Transformation ](https://www.deep-ml.com/problems/7) | medium | 2026-07-15 | [solution](problems/0007-matrix-transformation) |
 | [Mini-Batch Gradient Descent Step for Linear Regression](https://www.deep-ml.com/problems/803) | medium | 2026-11-02 | [solution](problems/0803-mini-batch-gradient-descent-step-for-linear-regression) |
 | [Minimum Remove to Make Valid Parentheses](https://www.deep-ml.com/problems/1159) | medium | 2026-10-18 | [solution](problems/1159-minimum-remove-to-make-valid-parentheses) |
+| [Numerical Gradient Checking](https://www.deep-ml.com/problems/313) | medium | 2026-11-04 | [solution](problems/0313-numerical-gradient-checking) |
 | [Outlier Detection and Removal Using IQR Method](https://www.deep-ml.com/problems/355) | medium | 2026-09-27 | [solution](problems/0355-outlier-detection-and-removal-using-iqr-method) |
 | [Partial Derivatives of Multivariable Functions](https://www.deep-ml.com/problems/215) | medium | 2026-10-27 | [solution](problems/0215-partial-derivatives-of-multivariable-functions) |
 | [Running Median of a Data Stream](https://www.deep-ml.com/problems/1138) | medium | 2026-09-29 | [solution](problems/1138-running-median-of-a-data-stream) |
