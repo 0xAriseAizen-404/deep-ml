@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**137** solved · 125 problems · 0 labs · 12 math
+**138** solved · 126 problems · 0 labs · 12 math
 
 ![Coverage](./coverage.svg)
 
@@ -67,6 +67,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Implementation of Log Softmax Function](https://www.deep-ml.com/problems/39) | easy | 2026-07-29 | [solution](problems/0039-implementation-of-log-softmax-function) |
 | [Label Encoding for Ordinal Variables](https://www.deep-ml.com/problems/356) | easy | 2026-09-27 | [solution](problems/0356-label-encoding-for-ordinal-variables) |
 | [Leaky ReLU Activation Function](https://www.deep-ml.com/problems/44) | easy | 2026-07-29 | [solution](problems/0044-leaky-relu-activation-function) |
+| [Learning Rate Range Finder for Linear Regression](https://www.deep-ml.com/problems/990) | easy | 2026-11-04 | [solution](problems/0990-learning-rate-range-finder-for-linear-regression) |
 | [Linear Kernel Function](https://www.deep-ml.com/problems/45) | easy | 2026-07-29 | [solution](problems/0045-linear-kernel-function) |
 | [Linear Regression Using Gradient Descent](https://www.deep-ml.com/problems/15) | easy | 2026-07-18 | [solution](problems/0015-linear-regression-using-gradient-descent) |
 | [Linear Regression Using Normal Equation](https://www.deep-ml.com/problems/14) | easy | 2026-07-18 | [solution](problems/0014-linear-regression-using-normal-equation) |
